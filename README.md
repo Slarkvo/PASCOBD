@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 #tìtulo de la aplicaciòn
