@@ -1,7 +1,7 @@
 import streamlit as st
 
 #tìtulo de la aplicaciòn
-st.title("ejercicios con bucles bàsicos en python)
+st.title("ejercicios con bucles bàsicos en python")
 
 #ejercicio 1: imprimir 10 veces 'Hola mundo'
 st.subheader("Ejercicio1: imprimir 'Hola Mundo' 10 Veces")
